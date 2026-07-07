@@ -81,6 +81,10 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 
+## [Registration via indico](https://indico.uni-wuppertal.de/event/555/)
+<br>
+
+
 {% comment %}
 INTRODUCTION
 
