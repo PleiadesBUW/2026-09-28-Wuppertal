@@ -343,7 +343,7 @@ address.
         <dd class="col py-2 px-3 mx-0 mb-0">
             <p id="workshops-faq">
             For answers to frequently asked questions about workshops,
-            refer to <a href="[https://carpentries.org/workshops/workshops-faq/](https://carpentries.org/workshops/workshops-faq/)">the Carpentries Workshop FAQ</a>.
+            refer to <a href="https://carpentries.org/workshops/workshops-faq/">the Carpentries Workshop FAQ</a>.
             </p>    
         </dd>
     </div>
