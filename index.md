@@ -255,8 +255,8 @@ address.
                 Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
             {% endif %}
             They should have a few specific software packages installed (listed <a href="#setup">below</a>).
-            Don't forget to bring a power cord, and even LAN cable, if you prefer a wired connections.
-            WiFi and enough power sockets are available.
+            Remember to bring the correct power cord, and even LAN cable, if you prefer a wired connections.
+            WiFi and enough power sockets are available.<br><br>
 
             Additionally, you need <a href="https://pleiades.uni-wuppertal.de/en/access/">access to the PLEIADES HPC system</a>. If you don't have an account, check if you are eligible, e.g. researches of the University of Wuppertal, and <b>request access in advance</b>.
             </p>
